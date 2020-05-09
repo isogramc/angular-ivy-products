@@ -85,8 +85,8 @@ export class AppComponent implements OnInit {
       description: 'Cartoon summer shirt',
       starRating: 4.4,
       imageUrl: 'https://www.brights.co.za/wp-content/uploads/2019/07/64283.png',
-      imageUrlfrnt: '/assets/images/hellosummerfront.png',
-      imageUrlBack: '/assets/images/hellosummerback.png',
+      imageUrlfrnt: 'assets/images/hellosummerfront.png',
+      imageUrlBack: 'assets/images/hellosummerback.png',
       inStock: false
     }];
   }
