@@ -52,8 +52,8 @@ export class AppComponent implements OnInit {
       description: 'Graphical presentation of a google G',
       starRating: 4.2,
       imageUrl: 'https://media.tractorsupply.com/is/image/TractorSupplyCompany/1023422?$456$',
-      imageUrlfrnt: '/assets/images/graphicgooglefront.png',
-      imageUrlBack: '/assets/images/graphicgoogleback.png',
+      imageUrlfrnt: 'https://cdn.shopify.com/s/files/1/0862/2088/products/MIESAI-Mono-Black-1.jpg?v=1525115032',
+      imageUrlBack: 'https://cdn.shopify.com/s/files/1/0862/2088/products/MIESAI-Mono-Black-4.jpg?v=1525115047',
       inStock: true,
     }, {
       productId: 2,
@@ -63,8 +63,8 @@ export class AppComponent implements OnInit {
       description: 'Supply your own design to this low neck',
       starRating: 2.5,
       imageUrl: 'https://www.ikea.com/ca/en/images/products/socker-watering-can__0635850_PE697471_S5.JPG?f=xxl',
-      imageUrlfrnt: '/assets/images/ntmockupfront.png',
-      imageUrlBack: '/assets/images/ntmockupback.png',
+      imageUrlfrnt: 'https://cdn.shopify.com/s/files/1/0862/2088/products/Riga-White-Ladies1.jpg?v=1585735913',
+      imageUrlBack: 'https://cdn.shopify.com/s/files/1/0862/2088/products/Riga-White-Ladies3.jpg?v=1585735913',
       inStock: false
     }, {
       productId: 3,
@@ -74,8 +74,8 @@ export class AppComponent implements OnInit {
       description: 'Polo shirt',
       starRating: 4.4,
       imageUrl: 'https://www.brights.co.za/wp-content/uploads/2019/07/64283.png',
-      imageUrlfrnt: '/assets/images/polofront.png',
-      imageUrlBack: '/assets/images/poloback.png',
+      imageUrlfrnt: 'https://cdn.shopify.com/s/files/1/0862/2088/products/Mono-BalticWhite-W-front.jpg?v=1525114906',
+      imageUrlBack: 'https://cdn.shopify.com/s/files/1/0862/2088/products/Mono-BalticWhite-W-back.jpg?v=1525114929',
       inStock: true
     }, {
       productId: 4,
@@ -85,8 +85,8 @@ export class AppComponent implements OnInit {
       description: 'Cartoon summer shirt',
       starRating: 4.4,
       imageUrl: 'https://www.brights.co.za/wp-content/uploads/2019/07/64283.png',
-      imageUrlfrnt: 'assets/images/hellosummerfront.png',
-      imageUrlBack: 'assets/images/hellosummerback.png',
+      imageUrlfrnt: 'https://bornlion.com/wp-content/uploads/2018/12/antony-joshua-born-lion-boxing-tshirt-front.jpg',
+      imageUrlBack: 'https://bornlion.com/wp-content/uploads/2018/12/antony-joshua-born-lion-boxing-tshirt-back.jpg',
       inStock: false
     }];
   }
