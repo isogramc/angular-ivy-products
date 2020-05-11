@@ -393,8 +393,8 @@
         <td>{{product.productName | uppercase}}</td>
         <td>{{product.productCode}}</td>
         <td>
-            <span *ngIf="product.inStock" style="color: red">{{product.price}}</span>
-            <span *ngIf="!product.inStock" style="color: darkblue">{{product.price}}</span>
+            <span *ngIf="product.inStock" style="color: green">{{product.price}}</span>
+            <span *ngIf="!product.inStock" style="color: red">{{product.price}}</span>
         </td>
          <td>{{product.starRating}}</td>
          <td>{{product.description}}</td>
